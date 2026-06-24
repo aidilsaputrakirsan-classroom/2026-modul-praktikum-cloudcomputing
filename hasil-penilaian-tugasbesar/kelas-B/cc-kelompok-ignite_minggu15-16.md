@@ -3,7 +3,7 @@
 
 > Lingkup: **C17 (Security, kelompok)** & **C18 (Dok C4 + Reflection, Mix per anggota)**. C19–C22 dinilai dosen. F6 = semua role prime (tanpa baseline floor).
 >
-> **Catatan dosen:** role Desnita (10231030 = Lead QA & Docs) dan Putri (10231074 = Lead Frontend) sempat tertukar; sudah dibetulkan. Atas keputusan dosen, **nilai akhir gradebook kedua mahasiswa ini ditukar** (Putri → 86.24/A, Desnita → 80.98/AB). Skor C18 per-reflection di tabel bawah = penilaian asli per file reflection; angka final yang berlaku ada di README master.
+> **Catatan:** role Desnita (10231030 = Lead QA & Docs) dan Putri (10231074 = Lead Frontend) sempat tertukar di penilaian awal; sudah dibetulkan. Nilai tiap mahasiswa memakai skor masing-masing (kuis/viva/git per NIM sesuai sumber).
 
 ---
 
